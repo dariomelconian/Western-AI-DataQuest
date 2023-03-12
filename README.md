@@ -1,6 +1,6 @@
 # Western-AI-DataQuest
 
-*THE CHALLENGE:
+## **THE CHALLENGE:**
 
 Brescia Norton Hotel is a renowned luxury five-star hotel with a history spanning over six decades. However, in recent times, the hotel has faced several challenges, with one of the most significant being the increasing number of booking cancellations. 
 
@@ -12,11 +12,11 @@ Secondly, the predictive model's accuracy is critical, and it must be able to ac
 
 The hotel's reputation is at stake, and any mistakes in predicting booking cancellations could lead to significant financial losses and damage the hotel's image. Therefore, it is essential to get the solution right and identify trends and patterns in historical booking data that can help predict future cancellations accurately.
 
-*THE TASK:
+## **THE TASK:**
 
 Determine how Brescia Norton can use machine learning to predict booking cancellations using the dataset provided. You will analyze the dataset of hotel booking records and use machine learning algorithms to build a predictive model. You will further present your conclusions in a slideshow pitch with recommendations based on your conclusions for Brescia Norton.
 
-*MY FILE DESCRIPTIONS:
+## **MY FILE DESCRIPTIONS:**
 
 - The 'DataQuest Dataset - Metadata.pdf' is a description of the dataset used for this analysis.
 - The provided 'DataQuest Dataset - train_data.csv' file is the training dataset.
