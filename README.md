@@ -12,10 +12,13 @@ Secondly, the predictive model's accuracy is critical, and it must be able to ac
 
 The hotel's reputation is at stake, and any mistakes in predicting booking cancellations could lead to significant financial losses and damage the hotel's image. Therefore, it is essential to get the solution right and identify trends and patterns in historical booking data that can help predict future cancellations accurately.
 
- 
-
 THE TASK:
 
 Determine how Brescia Norton can use machine learning to predict booking cancellations using the dataset provided. You will analyze the dataset of hotel booking records and use machine learning algorithms to build a predictive model. You will further present your conclusions in a slideshow pitch with recommendations based on your conclusions for Brescia Norton.
+
+
+- The provided 'DataQuest Dataset - train_data.csv' file is the training dataset.
+- The provided 'DataQuest Dataset - test_data.csv' file is the testing dataset.
+- The generated 'team_20.csv' file refers to the exported CSV file of the results from the final ML model tested on the 'DataQuest Dataset - test_data.csv' file, as it contains produced predictions of the response variable.
 
 Head to https://dataquest.devpost.com/ to find other details about the project.
