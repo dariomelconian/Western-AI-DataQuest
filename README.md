@@ -21,4 +21,4 @@ Determine how Brescia Norton can use machine learning to predict booking cancell
 - The provided 'DataQuest Dataset - test_data.csv' file is the testing dataset.
 - The generated 'team_20.csv' file refers to the exported CSV file of the results from the final ML model tested on the 'DataQuest Dataset - test_data.csv' file, as it contains produced predictions of the response variable.
 
-Head to https://dataquest.devpost.com/ to find other details about the project.
+Head to https://dataquest.devpost.com/ to find other details about the project!
