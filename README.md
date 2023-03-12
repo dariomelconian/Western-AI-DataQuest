@@ -21,6 +21,7 @@ Determine how Brescia Norton can use machine learning to predict booking cancell
 ## **MY FILE DESCRIPTIONS:**
 
 - The 'DataQuest Dataset - Metadata.pdf' is a description of the dataset used for this analysis.
+- The 'dataquest2023_team20.pptx' file is a powerpoint presentation describing the project. It is used to showcase to judges as part of the assessment of the competition.
 - The provided 'DataQuest Dataset - train_data.csv' file is the training dataset.
 - The provided 'DataQuest Dataset - test_data.csv' file is the testing dataset.
 - The produced 'team_20.csv' file refers to the exported CSV file consisting of the test data 'DataQuest Dataset - test_data.csv' file concatenated with the generated predictions of the response, calculated from the final ML model.
