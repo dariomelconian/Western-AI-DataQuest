@@ -1,6 +1,6 @@
 # Western-AI-DataQuest
 
-## by Dario Melconian and Bryce Chevallier - 2nd place finish
+## by Dario Melconian & Bryce Chevallier - 2nd place finish
 
 ## **THE CHALLENGE:**
 
