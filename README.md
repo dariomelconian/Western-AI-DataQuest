@@ -1,6 +1,6 @@
 # Western-AI-DataQuest
 
-## Project completed by Dario Melconian and Bryce Chevallier.
+## by Dario Melconian and Bryce Chevallier - 2nd place finish
 
 ## **THE CHALLENGE:**
 
