@@ -23,6 +23,6 @@ Determine how Brescia Norton can use machine learning to predict booking cancell
 - The provided 'DataQuest Dataset - test_data.csv' file is the testing dataset.
 - The produced 'team_20.csv' file refers to the exported CSV file consisting of the test data 'DataQuest Dataset - test_data.csv' file concatenated with the generated predictions of the response, calculated from the final ML model.
 - The 'team20.ipynb' file is the Python code for the initial data exploration, cleaning, and pre-processing. It also contains the initial Random Forest model as well as the XGBoost model.
-- The 'team20.2.ipynb' file is the Python code for similar approaches, however, includes AutoML modelling.
+- The 'team20_2.ipynb' file is the Python code for similar approaches, however, includes AutoML modelling.
 
 Head to https://dataquest.devpost.com/ to find other details about the project.
