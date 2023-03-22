@@ -31,7 +31,7 @@ Determine how Brescia Norton can use machine learning to predict booking cancell
 ## **Result Insights:**
 
 - Our ROC curve of 92.8% gave us tremendous leverage over the common classification problem of battling through the minimization of false positive rate while keeping precision and accuracy high.
-- Our 2nd model had accuracy of 90% with a false positive rate of only 17%, with the 93% true positive rate.
+- Our model had an accuracy of 90% with a false positive rate of only 17%, with the 93% true positive rate.
 
 The results from this project could help generate a set of business recommendations for hospitality service institutions:
 - Perhaps only introducing cancellation fees for first-time customers only. 
