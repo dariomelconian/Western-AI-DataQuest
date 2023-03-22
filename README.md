@@ -34,8 +34,8 @@ Determine how Brescia Norton can use machine learning to predict booking cancell
 - Our model had an accuracy of 90% with a false positive rate of only 17%, with the 93% true positive rate.
 
 The results from this project could help generate a set of business recommendations for hospitality service institutions:
-- Perhaps only introducing cancellation fees for first-time (new) customers only. 
-- Initiating targeted emails and catered-specific cancellation fees.
+- Perhaps only introducing cancellation fees for first-time (new) customers only.
+- Initiating targeted emails and catered-specific cancellation fees for booking clients predicted to cancel their reservation by our model.
 - Setting a threshold prediction value (or simply the model's classification score of 1) whereby that client would be sent an email regarding cancellation booking fees. 
 - Changing cancellation fee prices by raising them specifically for booking clients that were predicted to cancel by our model.
 - Track more information (enhancing the universe of the dataset) by contacting Expedia, Kayak, Booking.com, and other intermediary booking companies to gain more information about customers and perhaps even reach agreements for working together to minimize the issue.
